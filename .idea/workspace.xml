@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dc5e969-e225-4c12-a197-38f3698f36dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/banh-gai-theanh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/css/general.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/css/queries.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/banhgai-theanh-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/customers/cong-thanh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/customers/trong-phuc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/customers/vu-duc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/customers/xuan-sinh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/favicon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/favicon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/gallery/gallery-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/hero-min.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/hero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/hero.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/introduce/banh-gai-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/introduce/banh-gai-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/introduce/banh-gai-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/introduce/banh-gai-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/introduce/banh-gai-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/product/box-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/img/product/set-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing-page/manifest.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "phinx119"
+  }
+}]]></component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1728212336" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1728212335" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BanhgaiTheanh/BanhgaiTheanh.github.io.git",
+    "accountId": "39357806-0d3f-4981-8e83-83f8525a7da3"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mfLZ5pguxWmrba4rvxkbvsBVma" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Code_Practice/Front-End/banh-gai-theanh/landing-page",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code_Practice\Front-End\banh-gai-theanh\landing-page" />
+      <recent name="D:\Code_Practice\Front-End\banh-gai-theanh" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dc5e969-e225-4c12-a197-38f3698f36dd" name="Changes" comment="" />
+      <created>1727462736309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727462736309</updated>
+      <workItem from="1727462737551" duration="3314000" />
+      <workItem from="1727466988859" duration="3771000" />
+      <workItem from="1728122236454" duration="19928000" />
+      <workItem from="1728194400883" duration="13970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
