@@ -171,7 +171,6 @@ body {
     background-color: #45260a;
     color: var(--tints-color-1);
     padding: 1.1rem;
-    align-self: end;
 }
 
 .btn-form:hover, .btn-form:active {

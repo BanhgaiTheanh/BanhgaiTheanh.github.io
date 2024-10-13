@@ -136,6 +136,7 @@ form.addEventListener('submit', function (e) {
     const city = document.getElementById('city').value;
     const district = document.getElementById('district').value;
     const ward = document.getElementById('ward').value;
+    const address = document.getElementById('address').value;
     const product = document.getElementById('product').value;
     const quantity = document.getElementById('quantity').value;
 
@@ -146,6 +147,7 @@ form.addEventListener('submit', function (e) {
         Thành phố: ${city}\n
         Quận/Huyện: ${district}\n
         Phường/Xã: ${ward}\n
+        Địa chỉ: ${address}\n
         Loại bánh: ${product}\n
         Số lượng: ${quantity}\n
         Ngày đặt: ${orderDate}\n
@@ -161,6 +163,7 @@ form.addEventListener('submit', function (e) {
             city: city,
             district: district,
             ward: ward,
+            address: address,
             product: product,
             quantity: quantity
         };
