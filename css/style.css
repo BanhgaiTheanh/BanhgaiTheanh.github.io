@@ -133,39 +133,6 @@
     width: 100%;
 }
 
-.delivered-meals {
-    display: flex;
-    align-items: center;
-    gap: 1.6rem;
-    margin-top: 8rem;
-}
-
-.delivered-imgs {
-    display: flex;
-}
-
-.delivered-imgs img {
-    height: 4.8rem;
-    width: 4.8rem;
-    border-radius: 50%;
-    margin-right: -1.6rem;
-    border: 0.3rem solid var(--tints-color-1);
-}
-
-.delivered-imgs img:last-child {
-    margin-right: 0;
-}
-
-.delivered-text {
-    font-size: 1.8rem;
-    font-weight: 600;
-}
-
-.delivered-text span {
-    color: var(--shades-color);
-    font-weight: 700;
-}
-
 /**********************************************************************************************************************/
 /*SECTION FEATURE IN*/
 /**********************************************************************************************************************/
@@ -203,27 +170,27 @@
     padding-top: 9.6rem;
 }
 
-.step-number {
+.property-number {
     font-size: 9.8rem;
     font-weight: 600;
     color: #dddddd;
     margin-bottom: 1.2rem;
 }
 
-.step-description {
+.property-description {
     font-size: 1.8rem;
     line-height: 1.8;
 
 }
 
-.step-img-box {
+.property-img-box {
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
 }
 
-.step-img-box:before, .step-img-box:after {
+.property-img-box:before, .property-img-box:after {
     content: '';
     display: block;
     border-radius: 50%;
@@ -235,26 +202,26 @@
     z-index: -1;
 }
 
-.step-img-box:before {
+.property-img-box:before {
     width: 60%;
     padding-bottom: 60%;
     background: var(--accent-color);
 }
 
-.step-img {
+.property-img {
     width: 55%;
     border-radius: 50%;
 }
 
 /**********************************************************************************************************************/
-/*SECTION MEALS*/
+/*SECTION productS*/
 /**********************************************************************************************************************/
 
-.section-meals {
+.section-products {
     padding: 10rem 0 6.4rem 0;
 }
 
-.meal {
+.product {
     width: 75%;
     box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
     border-radius: 1.1rem;
@@ -262,76 +229,83 @@
     transition: all 0.4s ease-in-out;
 }
 
-.meal:hover {
+.product:hover {
     transform: translateY(-1.2rem);
     box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.06);
 }
 
-.meal-img {
+.product-img {
     width: 100%;
 }
 
-.meal-content {
+.product-content {
     padding: 3.2rem 4.8rem 4.8rem 4.8rem;
 }
 
-.meal-tags {
-    margin-bottom: 1.2rem;
-    display: flex;
-    gap: 0.4rem;
+.product-header {
+    text-align: center;
+    margin-bottom: 4.8rem;
 }
 
-.tag {
-    display: inline-block;
-    padding: 0.4rem 0.8rem;
-    font-size: 1.2rem;
+.product-name {
+    color: var(--shades-color);
     font-weight: 600;
+    font-size: 2.4rem;
     text-transform: uppercase;
+    letter-spacing: 0.075rem;
+    margin-bottom: 1.6rem;
+}
+
+.product-price {
+    font-size: 5.2rem;
+    font-weight: 600;
     color: var(--greys-color-3);
-    border-radius: 10rem;
+    margin-bottom: 1.6rem;
 }
 
-.tag-vegetarian {
-    background-color: #51cf66;
+.product-price span {
+    font-size: 3rem;
+    font-weight: 500;
+    margin-right: 0.8rem;
 }
 
-.tag-vegan {
-    background-color: #94d82d;
+.product-text {
+    font-size: 2rem;
+    line-height: 1.6;
+    color: var(--greys-color-2);
 }
 
-.tag-paleo {
-    background-color: #ffd43b;
+.product-order {
+    text-align: center;
+    margin-top: 3.2rem;
 }
 
-.meal-title {
+.product-details {
+    font-size: 1.6rem;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.feature-icon {
+    color: var(--primary-color);
+    height: 3.2rem;
+    width: 3.2rem;
+    background-color: var(--tints-color-2);
+    margin-bottom: 3.2rem;
+    padding: 1.6rem;
+    border-radius: 50%;
+}
+
+.feature-title {
     font-size: 2.4rem;
     color: var(--greys-color-3);
-    font-weight: 600;
-    margin-bottom: 3.2rem;
+    font-weight: 700;
+    margin-bottom: 1.6rem;
 }
 
-.meal-attributes {
-    list-style: none;
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-}
-
-.meal-attribute {
+.feature-text {
     font-size: 1.8rem;
-    display: flex;
-    align-items: center;
-    gap: 1.6rem;
-}
-
-.meal-icon {
-    height: 2.4rem;
-    width: 2.4rem;
-    color: var(--primary-color);
-}
-
-.all-recipes {
-    font-size: 1.8rem;
+    line-height: 1.8;
 }
 
 /**********************************************************************************************************************/
@@ -393,113 +367,6 @@
 
 .gallery-item img:hover {
     transform: scale(1.1);
-}
-
-/**********************************************************************************************************************/
-/*SECTION MEALS*/
-/**********************************************************************************************************************/
-
-.section-pricing {
-    padding: 9.6rem 0;
-}
-
-.pricing-plan {
-    border-radius: 1.1rem;
-    padding: 4.8rem;
-    width: 75%;
-}
-
-.pricing-plan-starter {
-    justify-self: end;
-    box-shadow: inset 0 0 0 0.2rem var(--tints-color-1);
-}
-
-.pricing-plan-complete {
-    background: var(--tints-color-1);
-    padding: 4.8rem;
-    position: relative;
-    overflow: hidden;
-}
-
-.pricing-plan-complete:after {
-    content: 'best value';
-    text-transform: uppercase;
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: var(--greys-color-3);
-    background: #fed33b;
-    padding: 0.8rem 8rem;
-
-    position: absolute;
-    top: 6%;
-    right: -18%;
-    transform: rotate(45deg);
-}
-
-.plan-header {
-    text-align: center;
-    margin-bottom: 4.8rem;
-}
-
-.plan-name {
-    color: var(--shades-color);
-    font-weight: 600;
-    font-size: 2.4rem;
-    text-transform: uppercase;
-    letter-spacing: 0.075rem;
-    margin-bottom: 1.6rem;
-}
-
-.plan-price {
-    font-size: 5.2rem;
-    font-weight: 600;
-    color: var(--greys-color-3);
-    margin-bottom: 1.6rem;
-}
-
-.plan-price span {
-    font-size: 3rem;
-    font-weight: 500;
-    margin-right: 0.8rem;
-}
-
-.plan-text {
-    font-size: 2rem;
-    line-height: 1.6;
-    color: var(--greys-color-2);
-}
-
-.plan-sign-up {
-    text-align: center;
-    margin-top: 3.2rem;
-}
-
-.plan-details {
-    font-size: 1.6rem;
-    line-height: 1.6;
-    text-align: center;
-}
-
-.feature-icon {
-    color: var(--primary-color);
-    height: 3.2rem;
-    width: 3.2rem;
-    background-color: var(--tints-color-2);
-    margin-bottom: 3.2rem;
-    padding: 1.6rem;
-    border-radius: 50%;
-}
-
-.feature-title {
-    font-size: 2.4rem;
-    color: var(--greys-color-3);
-    font-weight: 700;
-    margin-bottom: 1.6rem;
-}
-
-.feature-text {
-    font-size: 1.8rem;
-    line-height: 1.8;
 }
 
 /**********************************************************************************************************************/
@@ -568,7 +435,7 @@
             to right bottom,
             rgba(51, 82, 50, 0.35),
             rgba(70, 106, 68, 0.35)
-    ), url("../img/introduce/banh-gai-5.png");
+    ), url("../img/property/banh-gai-5.png");
     background-size: cover;
     background-position: center;
 }

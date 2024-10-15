@@ -72,13 +72,14 @@ Headline: Bánh gai Thế Anh – Tinh hoa từ đất trời, gìn giữ giá t
 Headline: Ưu đãi hấp dẫn
 
 1. Túi 5 bánh - 45.000đ
-2. Hộp 10 bánh - 100.000đ
+2. Hộp 5 bánh - 65.000đ
 
 Characteristic:
 
 1. Nguyên chất: Hương vị độc đáo của bánh gai Theanh “gây thương nhớ” cho mọi khách hàng.
 2. Gia truyền: Nâng niu, trân trọng từng chiếc bánh nhỏ xinh, trao truyền tinh hoa ẩm thực của cha ông từ đời này qua đời khác.
 3. Không chất bảo quản: Các sản phẩm đặc sản thơm ngon mềm dẻo, đảm bảo vệ sinh an toàn thực phẩm.
+4. Bao bì: Lấy cảm hứng từ hoa văn truyền thống, chất liệu giấy cao cấp, từng chi tiết được chăm chút tỉ mỉ, tạo nên vẻ đẹp sang trọng, quý phái.
 
 ### Photo gallery
 
@@ -106,7 +107,7 @@ Headline: Đặt hàng tại đây
 - Thành phố
 - Quận/Huyện
 - Phường/Xã
-- Loại bánh (5/10)
+- Loại bánh (set/box)
 - Số lượng
 
 ### Contact information

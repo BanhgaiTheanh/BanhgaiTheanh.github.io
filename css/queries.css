@@ -86,20 +86,15 @@
         width: 60%;
     }
 
-    .delivered-meals {
-        justify-content: center;
-        margin-top: 3.2rem;
-    }
-
     .logos img {
         height: 2.4rem;
     }
 
-    .step-number {
+    .property-number {
         font-size: 7.4rem;
     }
 
-    .meal-content {
+    .property-content {
         padding: 2.4rem 3.2rem 3.2rem 3.2rem;
     }
 
@@ -196,26 +191,6 @@
 }
 
 /**********************************************************************************************************************/
-/*BELOW 835px (Smaller tablets)*/
-/**********************************************************************************************************************/
-
-@media (max-width: 52.2875em) {
-    .pricing-plan {
-        width: 80%;
-    }
-}
-
-/**********************************************************************************************************************/
-/*BELOW 825px (Smaller tablets)*/
-/**********************************************************************************************************************/
-
-@media (max-width: 51.5625em) {
-    .pricing-plan {
-        width: 90%;
-    }
-}
-
-/**********************************************************************************************************************/
 /*BELOW 702px (Smaller tablets)*/
 /**********************************************************************************************************************/
 
@@ -233,11 +208,7 @@
         justify-self: center;
     }
 
-    .pricing-plan {
-         width: 100%;
-    }
-
-    .plan-price {
+    .property-price {
         font-size: 3.6rem;
     }
 
@@ -289,19 +260,19 @@
         height: 1.2rem;
     }
 
-    .step-img-box:nth-child(2) {
+    .property-img-box:nth-child(2) {
         grid-row: 1;
     }
 
-    .step-img-box:nth-child(6) {
+    .property-img-box:nth-child(6) {
         grid-row: 5;
     }
 
-    .step-img-box {
+    .property-img-box {
         transform: translateY(2.4rem);
     }
 
-    .meal {
+    .property {
         width: 75%;
         justify-self: center;
     }
@@ -319,11 +290,6 @@
     .gallery {
         grid-template-columns: repeat(4, 1fr);
         gap: 1.2rem;
-    }
-
-    .pricing-plan {
-        width: 80%;
-        justify-self: center;
     }
 
     .cta {
@@ -360,11 +326,11 @@
     margin-right: 1.6rem;
 }
 
-.no-flexbox-gap .meal-attribute:not(:last-child) {
+.no-flexbox-gap .property-attribute:not(:last-child) {
     margin-bottom: 2rem;
 }
 
-.no-flexbox-gap .meal-icon {
+.no-flexbox-gap .property-icon {
     margin-right: 1.6rem;
 }
 

@@ -32,6 +32,10 @@ allLinks.forEach((link) => {
             sectionElement.scrollIntoView({behavior: 'smooth'});
         }
 
+        if (href.startsWith("https://")) {
+            window.open(href, "_blank");
+        }
+
         if (link.classList.contains('main-nav-link')) {
             console.log(link);
             headerElement.classList.toggle('nav-open');
@@ -41,7 +45,6 @@ allLinks.forEach((link) => {
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Making sticky navbar
-
 const sectionHeroElement = document.querySelector('.section-hero');
 const observer = new IntersectionObserver(function (entries){
     const entry =  entries[0];
