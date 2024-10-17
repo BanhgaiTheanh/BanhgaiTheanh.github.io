@@ -148,7 +148,8 @@ form.addEventListener('submit', function (e) {
 
     // Get the current date and time
     const currentDateTime = new Date();
-    const orderDate = currentDateTime.toLocaleDateString();
+    const options = { day: '2-digit', month: '2-digit', year: 'numeric' };
+    const orderDate = currentDateTime.toLocaleDateString('en-GB', options);
     const orderTime = currentDateTime.toLocaleTimeString();
 
     const fullName = document.getElementById('full-name').value;
